@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import EmojiHandSelection from "./components/EmojiHandSelection";
 import ScoreComponent from "./components/ScoreComponent";
